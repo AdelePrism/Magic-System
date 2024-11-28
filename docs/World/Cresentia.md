@@ -1,0 +1,1 @@
+![[World Map.png|right]] Cresentia is what the world is named.

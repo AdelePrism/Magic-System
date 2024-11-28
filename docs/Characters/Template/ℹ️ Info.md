@@ -1,0 +1,2 @@
+### Personal Details
+### Magic Ability
