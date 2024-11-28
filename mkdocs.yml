@@ -13,6 +13,25 @@ markdown_extensions:
   - toc:
       toc_depth: 0
 
+nav:
+  - index.md
+  - Magic :
+    - Basics of Magic :
+      - Magic/Basics of Magic/🧠 Emotions.md
+      - Magic/Basics of Magic/🧙‍♀️ Affinity.md
+      - Magic/Basics of Magic/✨️ Souls of Magic.md
+      - Magic/Basics of Magic/🔣 Links.md
+      - Magic/Basics of Magic/📜 Spells.md
+    - Elements :
+      - Magic/Elements/⚡️ Shock.md
+      - Magic/Elements/🌙 Night.md
+      - Magic/Elements/🌪 Wind.md
+      - Magic/Elements/🌿 Nature.md
+      - Magic/Elements/💧 Water.md
+      - Magic/Elements/🔆 Daylight.md
+      - Magic/Elements/🔥 Flame.md
+      - Magic/Elements/🪨 Earth.md
+
 extra:
   generator: false
 
