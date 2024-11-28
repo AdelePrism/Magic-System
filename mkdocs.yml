@@ -9,6 +9,8 @@ theme:
     features: 
       - navigation.path
       - navigation.footer
+hide:
+  - toc
 
 extra:
   generator: false
