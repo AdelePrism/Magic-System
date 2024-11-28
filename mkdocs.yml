@@ -45,6 +45,12 @@ nav:
       - Characters/Template/index.md
         - 📜 Spells :
           - Characters/Template/Spells/📝 Spell Blueprint.md
+  - World :
+    - World/Cresentia.md
+    Species :
+      - World/Species/🧍 Human
+      - World/Species/🦇 Vampire
+      - World/Species/🪦 Undead
         
 extra:
   generator: false
