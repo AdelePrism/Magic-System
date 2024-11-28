@@ -6,6 +6,9 @@ theme:
       scheme: slate
       primary: deep purple
       accent: blue
+    features: 
+      - navigation.expand
+      - navigation.path
 
 extra_css: 
     - stylesheets/extra.css
