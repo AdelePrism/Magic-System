@@ -40,14 +40,14 @@ nav:
         - Characters/Samantha/Spells/👉 Bang.md
         - Characters/Samantha/Spells/👊 Jolt.md
         - Characters/Samantha/Spells/💪 Muscle Manipulation.md
-      - History :
+      #- History :
     Other Characters :
       - Beatrix :
         - Characters/Other Characters/Beatrix/index.md
-        - 📜 Spells :
+        #- 📜 Spells :
       - Ashley :
         - Characters/Other Characters/Ashley/index.md
-        - 📜 Spells :
+        #- 📜 Spells :
     - Template :
       - Characters/Template/index.md
       - 📜 Spells :
