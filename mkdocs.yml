@@ -40,16 +40,16 @@ nav:
           - Characters/Samantha/Spells/👉 Bang.md
           - Characters/Samantha/Spells/👊 Jolt.md
           - Characters/Samantha/Spells/💪 Muscle Manipulation.md
-    - Template :
-      - Characters/Template/index.md
+    #- Template :
+      #- Characters/Template/index.md
         #- 📜 Spells :
         #  - Characters/Template/Spells/📝 Spell Blueprint.md
-  - World :
-    - World/Cresentia.md
-    Species :
-      - World/Species/🧍 Human
-      - World/Species/🦇 Vampire
-      - World/Species/🪦 Undead
+  #- World :
+    #- World/Cresentia.md
+    #Species :
+      #- World/Species/🧍 Human
+      #- World/Species/🦇 Vampire
+      #- World/Species/🪦 Undead
         
 extra:
   generator: false
