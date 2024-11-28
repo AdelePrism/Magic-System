@@ -9,6 +9,7 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
+    font: 
 
 # Extensions
 markdown_extensions:
@@ -35,6 +36,8 @@ markdown_extensions:
 
   - toc:
       permalink: true
+extra_css: 
+    - stylesheets/extra.css
 
 plugins:
   - search

@@ -1,0 +1,8 @@
+@font-face {
+	font-family: "OneUI";
+	src: "assets\OneUIEmoji.ttf"
+}
+
+:root {
+--md-text-font: "OneUI";
+}
