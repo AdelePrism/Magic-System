@@ -40,7 +40,12 @@ nav:
           - Characters/Samantha/Spells/👉 Bang.md
           - Characters/Samantha/Spells/👊 Jolt.md
           - Characters/Samantha/Spells/💪 Muscle Manipulation.md
-
+        - History :
+    - Template :
+      - Characters/Template/index.md
+        - 📜 Spells :
+          - Characters/Template/Spells/📝 Spell Blueprint.md
+        
 extra:
   generator: false
 
