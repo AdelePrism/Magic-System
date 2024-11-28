@@ -1,8 +1,9 @@
 @font-face {
 	font-family: "OneUI";
-	src: "assets\OneUIEmoji.ttf"
+	src:  URL('OpenMoji-Color.SVG.ttf') format('truetype');
 }
 
-:root {
-/*--md-text-font: "OneUI";*/
+.md-typeset h1 {
+	font-family: "OneUI";
+	src:  URL('OpenMoji-Color.SVG.ttf') format('truetype');
 }

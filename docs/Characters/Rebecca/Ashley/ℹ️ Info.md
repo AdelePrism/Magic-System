@@ -1,4 +1,4 @@
 ### Personal Details
 ### Magic Ability
-Affinities: Water
+Affinities: Water  
 Links: 
