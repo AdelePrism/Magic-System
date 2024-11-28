@@ -42,8 +42,8 @@ nav:
           - Characters/Samantha/Spells/💪 Muscle Manipulation.md
     - Template :
       - Characters/Template/index.md
-        - 📜 Spells :
-          - Characters/Template/Spells/📝 Spell Blueprint.md
+        #- 📜 Spells :
+        #  - Characters/Template/Spells/📝 Spell Blueprint.md
   - World :
     - World/Cresentia.md
     Species :
