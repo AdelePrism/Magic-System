@@ -1,5 +1,5 @@
-site_name: obsidian-mkdocs template
-
+site_name: "Adele Magic System" 
+site_url: https://adeleprism.github.io/Magic-System
 theme:
     name: 'material'
     palette:
