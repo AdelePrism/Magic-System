@@ -35,11 +35,11 @@ nav:
     - Samantha :
       - Characters/Samantha/index.md
       - 📜 Spells :
-        - Characters/Samantha/Spells/⏯️ Dash.md
-        - Characters/Samantha/Spells/⏱️ Switch Gear.md
-        - Characters/Samantha/Spells/👉 Bang.md
-        - Characters/Samantha/Spells/👊 Jolt.md
-        - Characters/Samantha/Spells/💪 Muscle Manipulation.md
+        - Characters/Samantha/📜 Spells/⏯️ Dash.md
+        - Characters/Samantha/📜 Spells/⏱️ Switch Gear.md
+        - Characters/Samantha/📜 Spells/👉 Bang.md
+        - Characters/Samantha/📜 Spells/👊 Jolt.md
+        - Characters/Samantha/📜 Spells/💪 Muscle Manipulation.md
       #- History :
     #Other Characters :
       #- Beatrix :
@@ -51,7 +51,7 @@ nav:
     - Template :
       - Characters/Template/index.md
       - 📜 Spells :
-        - Characters/Template/Spells/📝 Spell Blueprint.md
+        - Characters/Template/📜 Spells/📝 Spell Blueprint.md
   - World :
     - World/Cresentia.md
     - Species :
