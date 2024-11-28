@@ -1,3 +1,4 @@
+# ℹ️ Info
 ### Personal Details
 Samantha is an aspiring witch. She has long, sunset blonde hair and is quite tall and skinny.
 

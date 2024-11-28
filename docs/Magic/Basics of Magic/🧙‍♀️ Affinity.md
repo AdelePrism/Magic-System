@@ -2,13 +2,8 @@ Each Individual has a different affinity for magic. The vast majority of people 
 
 In the rare cases someone has more than one affinity, the individual inherits them from their parents or bloodline. Example below.
 
-**Grandparents affinities:**
-
-| 🌿 Nature | 🌙 Night | 🌿 Nature | 🪨 Earth |
-| --------- | -------- | --------- | -------- |
-**Parents affinities:**
-
-| 🌿           Nature | 🪨            Earth |
-| ------------------- | ------------------- |
-Most likely to be a nature mage, but closely followed by earth mage, however, night mage is also possible, just not as likely. In theory is able to have all 3 affinities.
+| Grandparents | 🌿 Nature             | 🌙 Night                            | 🌿 Nature                          | 🪨 Earth                                                   |
+| ------------ | --------------------- | ----------------------------------- | ---------------------------------- | ---------------------------------------------------------- |
+| Parents      | 🌿 Nature             |                                     | 🪨 Earth                           |                                                            |
+| Individual   | 🌿 Most likely Nature | 🌙 Night is possible but not likely | 🪨 Feasibly could be earth instead | 🌿🌙🪨 Could in theory have all 3 affinities but very rare |
 
