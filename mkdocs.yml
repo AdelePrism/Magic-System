@@ -9,6 +9,7 @@ theme:
     features: 
       - navigation.expand
       - navigation.path
+      - navigation.footer
 
 extra_css: 
     - stylesheets/extra.css
