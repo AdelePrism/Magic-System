@@ -55,9 +55,9 @@ nav:
   - World :
     - World/Cresentia.md
     - Species :
-      - World/Species/🧍 Human
-      - World/Species/🦇 Vampire
-      - World/Species/🪦 Undead
+      - World/Species/🧍 Human.md
+      - World/Species/🦇 Vampire.md
+      - World/Species/🪦 Undead.md
         
 extra:
   generator: false

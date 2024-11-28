@@ -1,6 +1,8 @@
 For a spellcaster to be able to use magic, they need a link, a connection to the soul of the element they are using.
 
-The most basic and simple link a caster can make, is symbols and runes in the form of a text, or a set of instructions. These instructions tell the soul what the caster wants to do, and interprets it and turns it into a spell. People can use anything as a link. As long as the soul, and the caster both understand and agree on a link, that link is made and can be used by the caster.
+The most basic and simple link a caster can make, is symbols and runes in the form of a text, known as inscriptions. These instructions tell the soul what the caster wants to do, and interprets it and turns it into a spell. This way of casting is unique in that it does not have a shorthand form for casting spells, each time a spell gets cast it needs the full instructions.
+
+People can use anything as a link. As long as the soul, and the caster both understand and agree on a link, that link is made and can be used by the caster.
 
 It is also possible to make spells get cast automatically, under a condition. This, however, is difficult and requires skill in making links.
 
