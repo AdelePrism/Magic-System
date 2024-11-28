@@ -1,2 +1,2 @@
 # Adele's Magic System
-Welcome to the wiki for the magic system I made. If you are new, visit the [Basics of Magic](obsidian://open?vault=Magic-System&file=docs%2FMagic%2FBasics%20of%20Magic%2F%F0%9F%A7%A0%20Emotions) to learn about the system, and [Elements](obsidian://open?vault=Magic-System&file=docs%2FMagic%2FElements%2F%E2%9A%A1%EF%B8%8F%20Shock) for a brief introduction to the 8 elements.
+Welcome to the wiki for the magic system I made. If you are new, visit the [Basics of Magic](<Magic/Basics of Magic/🧠 Emotions.md>) to learn about the system, and [Elements](<Magic/Elements/⚡️ Shock.md>) for a brief introduction to the 8 elements.
