@@ -7,10 +7,9 @@ theme:
       primary: deep purple
       accent: blue
     features: 
-      - navigation.expand
       - navigation.path
       - navigation.footer
-      
+
 extra:
   generator: false
 
