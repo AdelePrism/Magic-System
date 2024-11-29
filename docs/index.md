@@ -1,2 +1,2 @@
-# Adele's Magic System
-Welcome to the wiki for the magic system I made. If you are new, visit the [Basics of Magic](<Magic/Basics of Magic/🧠 Emotions.md>) to learn about the system, and [Elements](<Magic/Elements/⚡️ Shock.md>) for a brief introduction to the 8 elements.
+# Introduction
+Welcome to the wiki for the magic system I made. If you are new, visit the [Basics of Magic](<Magic/Basics of Magic/🧠 Emotions.md>) to learn about the system, and [Elements](<Magic/Elements/⚡️ Shock.md>) for a brief introduction to the 8 elements with examples for how they can be used.
