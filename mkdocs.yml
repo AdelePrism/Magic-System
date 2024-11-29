@@ -9,6 +9,7 @@ theme:
     features: 
       - navigation.path
       - navigation.footer
+      - navigation.indexes
 markdown_extensions:
   - toc:
       toc_depth: 0
@@ -33,7 +34,7 @@ nav:
       - Magic/Elements/🪨 Earth.md
   - Characters :
     - Samantha :
-      #- Characters/Samantha/index.md
+      - Characters/Samantha/index.md
       - 📜 Spells :
         - Characters/Samantha/📜 Spells/⏯️ Dash.md
         - Characters/Samantha/📜 Spells/⏱️ Switch Gear.md
@@ -49,7 +50,7 @@ nav:
         #- Characters/Other Characters/Ashley/index.md
         #- 📜 Spells :
     - Template :
-      #- Characters/Template/index.md
+      - Characters/Template/index.md
       - 📜 Spells :
         - Characters/Template/📜 Spells/📝 Spell Blueprint.md
   - World :
