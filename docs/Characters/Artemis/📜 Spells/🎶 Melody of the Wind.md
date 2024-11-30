@@ -1,4 +1,4 @@
-**Element(s):** [🌪 Wind](<Magic/Elements/🌪 Wind.md>)
+**Element(s):** [🌪 Wind](<../docs/Magic/Elements/🌪 Wind.md>)
 ### Trigger
 - Holding her hands up as if to play an invisible ocarina readies the spell.
 - If she makes a sound with her mouth during this, it triggers the spell.
