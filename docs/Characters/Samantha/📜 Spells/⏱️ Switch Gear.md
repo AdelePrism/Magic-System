@@ -1,7 +1,7 @@
-**Element(s):** Shock
+**Element(s):** [⚡️ Shock](<Magic/Elements/⚡️ Shock.md>)
 ### Trigger
-- Clearly thinking the command "Gear" Followed by a percentage.
-- Spell wont deactivate until she set the gear to 0.
+- Clearly thinking the phrase "Gear" Followed by a percentage.
+- Spell wont deactivate until she sets the gear to 0 or she runs out of emotion.
 ### Effect
 - Speeds up Samantha by the percentage specified, 0% being the default speed and 100% being twice as fast.
 - Cannot go below 0.

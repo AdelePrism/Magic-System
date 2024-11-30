@@ -1,9 +1,9 @@
-**Element(s):** Shock
+**Element(s):** [⚡️ Shock](<Magic/Elements/⚡️ Shock.md>)
 ### Trigger
 - Focus on a specific point in space either visible or known, as well as snapping fingers.
 - Focused point is typically a specific muscle.
 ### Effect
-- Create a very small spark, of the same strength as the brain sends to move muscles. 
+- Create a very small spark, of the same strength as the brain sends to control muscles. 
 - Spark appears in the focused spot, and forces the muscle to contract unwillingly.
 ### Notes
 - Most of the energy in this spell is used to cast this spell precisely, even across longer distances. 

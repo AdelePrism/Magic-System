@@ -1,4 +1,4 @@
-**Element(s):** Shock
+**Element(s):** [⚡️ Shock](<Magic/Elements/⚡️ Shock.md>)
 ### Trigger
 - Visualizing herself moving for up to 5 seconds readies the spell.
 - Blinking intentionally when its fully visualized triggers the spell.
@@ -8,6 +8,6 @@
 
 ### Notes
 - It is very easy for her to miss a punch with this spell, so it is more used when her target is stationary or for miscellaneous purposes.
-- The movements performed are sped up by a factor of 50.
+- The movements performed are sped up by approximately a factor of 50.
 - Samantha can use this spell to guarantee that she doesn't fail a task, and can also do feats she couldn't otherwise, like running on walls or jumping very quickly.
 - Her blinking triggers the spell, and when she opens her eyes again, she is at the end of the visualized movements. This allows for quick adaptation to the situation when she dashes.
