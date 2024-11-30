@@ -1,0 +1,3 @@
+Vampires are a humanoid species that humans turn into, but only in rare occasions. This being when a particularly adept [🌙 Night](<../../Magic/Elements/🌙 Night.md>) mage inscribes a ritual to make them a vampire. This can be for many reasons, as there are many benefits to being a vampire, but there are also some downsides.
+
+Vampires age a lot slower, or could even stop aging completely if the ritual is done flawlessly.

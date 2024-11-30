@@ -1,1 +1,3 @@
-Humans are the most common humanoid species
+Humans are the most common humanoid species in Cresentia, and there is not much to say about them, other than the fact that all humans have an affinity with an element, but for most humans it is relatively weak, only being useful for basic quality of life.
+
+Humans live in towns, cities or on their own, there is a lot of variation in how and where a human can live their life, as they are a very adaptable species.
