@@ -1,5 +1,5 @@
 ## Personal Details
-Samantha is an aspiring witch. She has long, sunset blonde hair and is quite tall and skinny.
+Samantha is an aspiring witch. She has long, blonde hair and is around 5'10 and skinny.
 
 She is impatient and hasty, if she sees the solution to a problem, she won't hesitate to do it herself. She is also stubborn, and insists on doing things her way, even if there is a better option.
 
