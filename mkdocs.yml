@@ -63,10 +63,11 @@ nav:
     - Society :
       - Stereotypes :
         - World/Society/Stereotypes/⚡️Lightning Bolt Spell.md
+        - World/Society/Stereotypes/❇ Heal Spell.md
     - Species :
       - World/Species/🧍 Human.md
       - World/Species/🦇 Vampire.md
-      - World/Species/🪦 Undead.md
+      #- World/Species/🪦 Undead.md
         
 extra:
   generator: false
