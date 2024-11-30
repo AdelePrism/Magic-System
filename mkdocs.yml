@@ -41,7 +41,12 @@ nav:
         - Characters/Samantha/📜 Spells/👉 Bang.md
         - Characters/Samantha/📜 Spells/👊 Jolt.md
         - Characters/Samantha/📜 Spells/💪 Muscle Manipulation.md
-      #- History :
+      - History :
+        - Characters/Samantha/History/Summary.md
+    - Artemis :
+      - Characters/Artemis/index.md
+      - 📜 Spells :
+        - Characters/Artemis/📜 Spells/🎶 Melody of the Wind.md
     #Other Characters :
       #- Beatrix :
         #- Characters/Other Characters/Beatrix/index.md
