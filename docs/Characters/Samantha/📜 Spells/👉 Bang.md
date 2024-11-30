@@ -1,4 +1,4 @@
-**Element(s):** [⚡️ Shock](<Magic/Elements/⚡️ Shock.md>)
+**Element(s):** [⚡️ Shock](<../../../Magic/Elements/⚡️ Shock.md>)
 ### Trigger
 - Hand shaped like a finger gun pointed in the general direction, and focus on a specific point of impact readies the spell.
 - Pretending to fire the gun triggers the spell.

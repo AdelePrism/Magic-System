@@ -4,7 +4,7 @@ Samantha is an aspiring witch. She has long, honey blonde hair and is around 5'1
 She is impatient and hasty, if she sees the solution to a problem, she won't hesitate to do it herself. She is also stubborn, and insists on doing things her way, even if there is a better option. She is also quite energetic and jokes around a lot.
 
 ## Magic Ability
-<font size=2>Affinities: [⚡️ Shock](<Magic/Elements/⚡️ Shock.md>)  </font>
+<font size=2>Affinities: [⚡️ Shock](<../../Magic/Elements/⚡️ Shock.md>)  </font>
 <font size=2>Links: Inscription, Somatic, Mental  </font>
 
 Samantha is particularly gifted, and has a strong affinity with her element, Shock. She also has mental links, which is a rare skill among mages. Despite this, she insists on fighting up close rather than the more advantageous lightning bolt, common among Shock mages for its long range and precision. Due to academic standards and societal pressure, Samantha reluctantly learned a ranged attack, but she rarely uses it, out of spite. 

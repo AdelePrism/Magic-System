@@ -1,4 +1,4 @@
-**Element(s):** [⚡️ Shock](<Magic/Elements/⚡️ Shock.md>)
+**Element(s):** [⚡️ Shock](<../../../Magic/Elements/⚡️ Shock.md>)
 ### Trigger
 - Punching with intent to harm 
 - Automatic

@@ -1,4 +1,4 @@
-**Element(s):** [⚡️ Shock](<Magic/Elements/⚡️ Shock.md>)
+**Element(s):** [⚡️ Shock](<../../../Magic/Elements/⚡️ Shock.md>)
 ### Trigger
 - Focus on a specific point in space either visible or known, as well as snapping fingers.
 - Focused point is typically a specific muscle.

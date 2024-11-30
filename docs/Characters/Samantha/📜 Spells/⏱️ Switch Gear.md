@@ -1,4 +1,4 @@
-**Element(s):** [⚡️ Shock](<Magic/Elements/⚡️ Shock.md>)
+**Element(s):** [⚡️ Shock](<../../../Magic/Elements/⚡️ Shock.md>)
 ### Trigger
 - Clearly thinking the phrase "Gear" Followed by a percentage.
 - Spell wont deactivate until she sets the gear to 0 or she runs out of emotion.

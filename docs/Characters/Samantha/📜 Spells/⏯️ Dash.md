@@ -1,4 +1,4 @@
-**Element(s):** [⚡️ Shock](<Magic/Elements/⚡️ Shock.md>)
+**Element(s):** [⚡️ Shock](<../../../Magic/Elements/⚡️ Shock.md>)
 ### Trigger
 - Visualizing herself moving for up to 5 seconds readies the spell.
 - Blinking intentionally when its fully visualized triggers the spell.
