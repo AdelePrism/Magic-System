@@ -8,5 +8,5 @@ Artemis is very caring and empathetic, and has a bit of a "motherly" nature, whi
 
 Artemis is both a Nature and Wind mage. While her offensive and defensive spells utilize both elements, Nature is used primarily for support and defence while Wind is used more for offence. She also enjoys using Wind to play music recreationally, often sounding like an ocarina to play peaceful melodies.
 
-She carries a shortbow she made herself, and creates thin wooden arrows to use as ammo, so her fighting style is more of a ranged attacker and tends to take on more of a support role when fighting with other people.
+She carries a shortbow she made herself for combat. As well as this, Artemis uses Nature to create thin wooden arrows to use as ammo, so her fighting style is more of a ranged attacker, but she tends to take on more of a support role when fighting with other people.
 

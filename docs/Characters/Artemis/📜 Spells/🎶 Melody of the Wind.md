@@ -6,5 +6,4 @@
 - Any sound she makes with her mouth will be altered to sound like she is playing an ocarina.
 - She can use this to play music anytime she wants.
 ### Notes
-- Artemis often uses this spell recreationally.
-- Playing ocarina is one of her hobbies.
+- Artemis often uses this spell recreationally, as playing music is one of her hobbies.
