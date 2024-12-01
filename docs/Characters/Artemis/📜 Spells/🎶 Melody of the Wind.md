@@ -7,3 +7,4 @@
 - She can use this to play music anytime she wants.
 ### Notes
 - Artemis often uses this spell recreationally, as playing music is one of her hobbies.
+- The spell due to its simplicity is very efficient, and hardly uses any emotion to do as its simply vibrating the air coming out of her mouth.
