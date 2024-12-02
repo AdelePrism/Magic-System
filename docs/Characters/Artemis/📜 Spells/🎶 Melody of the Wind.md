@@ -8,3 +8,4 @@
 ### Notes
 - Artemis often uses this spell recreationally, as playing music is one of her hobbies.
 - The spell due to its simplicity is very efficient, and hardly uses any emotion to do as its simply vibrating the air coming out of her mouth.
+- Artemis can cast [🍃 Sway Petals](<🍃 Sway Petals.md>) while she is casting this spell if she wants to.
