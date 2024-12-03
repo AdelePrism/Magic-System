@@ -1,0 +1,1 @@
+Rituals are a way of casting spells.
