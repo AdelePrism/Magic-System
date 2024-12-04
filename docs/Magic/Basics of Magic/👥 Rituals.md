@@ -1,1 +1,1 @@
-Rituals are a way of casting spells. To do a ritual you need to write an inscription for a spell
+Rituals are a way of casting spells. To do a ritual you need to write an inscription for a spell, and 
