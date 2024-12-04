@@ -1,0 +1,9 @@
+@font-face {
+	font-family: "OneUI";
+	src:  URL('OpenMoji-Color.SVG.ttf') format('truetype');
+}
+
+.md-typeset h1 {
+	font-family: "OneUI";
+	src:  URL('OpenMoji-Color.SVG.ttf') format('truetype');
+}
