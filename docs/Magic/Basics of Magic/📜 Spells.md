@@ -2,8 +2,6 @@ When a caster and a soul of magic have established a link between them that isn'
 
 Spells are by nature of being made of emotions, individual and unique. People can teach others of a spell they have, but the student can only make a personal replica. Any 2 people will have different forms of what some people would describe as the same spell. A fireball might be a large orb of fire hurled at an enemy, or a small spark that explodes on impact, or anything in between. It is impossible to truly copy every aspect of someone elses spell, with the exception being rituals, explained below.
 
-If multiple people work together on a ritual to cast a spell, everyone gets a copy of the spell they made, but only the elements that the caster possesses. For example, if a multiple water mages all work together on a complex water spell, every mage gets a copy of the full spell, but if a flame mage and a water mage work on one spell together, the flame mage can only do the parts of the spell that use flame magic, and vice versa. They can do the spell if they both work together to use the spell at the same time. Typically, mages tend to alter ritual spells after the ritual to be more personal, and to fit more to their intended use of the spell.
-
 The majority of spells are instant, or last for a short duration, but there are also spells that have a passive ability that last for however long the caster wants.
 
 If a caster has multiple affinities, they can make a spell that uses multiple elements. All souls of magic involved will participate in making the spell.
