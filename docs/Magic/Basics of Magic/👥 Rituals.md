@@ -1,1 +1,5 @@
-Rituals are a way of casting spells. To do a ritual you need to write an inscription for a spell, and 
+Rituals are a way of casting spells. To do a ritual you need to write an inscription for a spell, and include a glyph that signifies it is a ritual. What differentiates rituals from spells, is that they can be performed with multiple people. This allows for more customization and fine tuning of a spell. Ritual spells also allow for the caster(s) to save the spell under any other link that they have, preserving it for more shorthand use.
+
+If multiple people with the same element work on a ritual together, they can all save the spell under triggers they choose individually, and they can alter the spell after the ritual as they can any other. This allows for immensely complex spells that require a lot of emotion and multiple people to manage to even be cast at all, to be done. If this is done, then the casters will all have that complex spell able to be simplified for shorthand use, something they would never had been able to do if they did it alone.
+
+If 
