@@ -1,0 +1,1 @@
+Samantha meets [Artemis](<../../Artemis/index.md>) in the forest on the outskirts of a nearby town.
