@@ -34,6 +34,7 @@ nav:
       - Magic/Elements/🔥 Flame.md
       - Magic/Elements/🪨 Earth.md
   - Characters :
+    -Characters/index.md
     - Samantha :
       - Characters/Samantha/index.md
       - 📜 Spells :
@@ -50,6 +51,7 @@ nav:
         - Characters/Artemis/📜 Spells/🎶 Melody of the Wind.md
         - Characters/Artemis/📜 Spells/🍃 Sway Petals.md
         - Characters/Artemis/📜 Spells/❇ Heal.md
+        - Characters/Artemis/📜 Spells/🪵 Carve Shape.md
     #Other Characters :
       #- Beatrix :
         #- Characters/Other Characters/Beatrix/index.md

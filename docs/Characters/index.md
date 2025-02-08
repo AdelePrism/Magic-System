@@ -1,0 +1,2 @@
+# Characters
+This is a list of characters I have made using this magic system. These function as examples of ways the magic system can be used so that it is easier to understand what mages are capable of.
