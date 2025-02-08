@@ -10,4 +10,5 @@ In its purest form, water will start to form in the surrounding area, making the
 - General manipulation of water and its states.  
 - Taken to its absolute limit, it could be possible to manipulate gravity.  
 - Rearranging atoms to make basic elements (Carbon and Oxygen into carbon dioxide)
-- Giving properties to objects, for example making something glow or making it weigh less. Combined with other elements allows for more complex properties utilizing both elements
+- Repairing objects or tools
+- Giving properties to objects, for example making something more durable or making it weigh less. Combined with other elements allows for more complex properties utilizing both elements
