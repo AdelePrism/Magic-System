@@ -1,6 +1,7 @@
 **Element(s):** [🌿 Nature](<../../../Magic/Elements/🌿 Nature.md>)
 ### Trigger
 - Putting her hands together and saying the name of a type of wood she knows, materializes that type of wood and levitates it between her hands.
+	- Picking up an existing piece of wood can be used instead of materializing it, in which case the existing wood becomes the target of the spell.
 - Moving her fingers in swift slicing motions carves the wood.
 ### Effect
 - Materializes a chunk of wood in the size she makes with her hands, in the type that she specifies.
