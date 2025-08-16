@@ -1,6 +1,6 @@
 - ### 1 Bonus Action to cast
 - ### 2 Focus Points to have access to the spell
-- ### 2 Magic Points to cast
+- ### 1 Magic Point to cast
 
 ## Effects:
 - The spell is a projectile with a range of 30ft, and makes an attack roll on the target
