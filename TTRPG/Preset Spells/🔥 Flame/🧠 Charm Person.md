@@ -1,3 +1,4 @@
+- ### 1 Action to cast
 - ### 3 Focus Points to have access to the spell
 - ### Therefore 3 Magic Points to cast
 
