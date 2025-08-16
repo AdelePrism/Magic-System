@@ -1,5 +1,5 @@
 - ### 1 Action to cast
-- ### 2 Focus Points to have access to the spell
+- ### 3 Focus Points to have access to the spell
 - ### 2 Magic Points to cast
 
 ## Effects:

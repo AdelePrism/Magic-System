@@ -1,5 +1,5 @@
 - ### 1 Bonus Action per 5ft cube of area the structure takes, to cast
-- ### 4 Focus Points to have access to the spell
+- ### 3 Focus Points to have access to the spell
 - ### 4 Magic Points to cast
 
 ## Effects:
