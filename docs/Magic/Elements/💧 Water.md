@@ -1,4 +1,4 @@
-**Water represents adaptability and resourcefulness, as well as control over water, ice and steam.
+**Water represents adaptability and resourcefulness, as well as control over water, ice and steam or moisture. It also represents composure, or focus.
 In its purest form, water will start to form in the surrounding area, making the air very humid and everything wet.**
 
 **Examples for using the Water element:**  
